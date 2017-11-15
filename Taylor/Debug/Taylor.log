@@ -1,0 +1,6 @@
+﻿  Taylor.cpp
+d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: 参见“MBCS_Support_Deprecated_In_MFC”的声明
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  Taylor.vcxproj -> D:\OneDrive\研一课程\面向对象编程\Taylor\Debug\Taylor.exe
+  Taylor.vcxproj -> D:\OneDrive\研一课程\面向对象编程\Taylor\Debug\Taylor.pdb (Full PDB)
